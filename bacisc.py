@@ -1,0 +1,20 @@
+#print is used for dislap the output program 
+print("Hello world")
+#bio - Data
+print("NAME: Salman")
+print("age:20")
+print("place: Hyderabad")
+print("Collge: MRCET")
+print("Branch: Csm")
+print("RollNO: 180")
+#Bio - Data using input and output  statements
+Name=input("enter your name:")
+age=input("enter your age: ")
+Place=input("enter your place:")
+Branch=input("enter your branch:")
+Collge=input("enter your collge name:")
+Rollno=("enter your rollno")
+print("Name:",name)
+print("Age:",Age)
+print("place:",place)
+print("collge:,collge")

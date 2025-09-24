@@ -1,0 +1,11 @@
+#area of circle = pi*r**4
+#r = (input("enter r value"))
+#area_of_circle=3.14*r*r
+#print(area_of_circle)
+
+#area of triangle
+base = int(input("enter base value:"))
+height = int(input("enter the height value:"))           
+AOT = 1/2*height*base
+print(AOT)
+

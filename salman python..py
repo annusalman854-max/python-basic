@@ -1,0 +1,25 @@
+int
+a=12
+print(a)
+print(type(a))
+#Float
+b=12.33
+print(b)
+print(type(b))
+#string
+c="Hello"
+print(c)
+print(type(c))
+#boolen
+x=20
+y=30
+print(x,y)
+print(type(x,y))
+#complex
+d=2+3j
+print(d)
+print(type(d))
+#casting
+a1=int(input("enter a value"))
+print(a1)
+print(type(a1))

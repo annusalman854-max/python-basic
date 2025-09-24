@@ -1,0 +1,11 @@
+# methods and operations in numpy arrays: 
+# 1. basic array information method:
+A = np.array([1,2,3,4,5])
+# ndim():Returns the number of dimentions of the array.
+# shape: returns a tuple showing the sizes of the array in each dimentions(rows,columns,etc..)
+print(A2D.shape) #(3,3)
+# mathematical Operations:
+A = np.array([1,2,3,4,5])
+L = [1,2,3,4,5]
+print(A+6)
+print(A+6)
